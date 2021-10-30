@@ -1,0 +1,15 @@
+/build
+/bin
+/www
+/GPATH
+/GRTAGS
+/GTAGS
+/build-stand
+/build-wasm
+/cmake-build-debug-emscripten
+/cmake-build-release-emscripten
+/cmake-build-debug
+/cube-wasm.data
+/cube-wasm.js
+/cube-wasm.wasm
+/cube-wasm.wasm.map
