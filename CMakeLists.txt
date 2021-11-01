@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(hello-all)
+project(cubel-all)
 
 if (CMAKE_BUILD_TYPE MATCHES debug-wasm)
     add_subdirectory("${PROJECT_SOURCE_DIR}/project-wasm" "${PROJECT_SOURCE_DIR}/build-wasm")

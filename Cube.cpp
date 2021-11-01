@@ -346,6 +346,6 @@ void Cube::move(float t, float mouseTX, float mouseTY)
 {
     matrixIdentityFunction(modelviewmatrix);
     matrixIdentityFunction(projectionMatrix);
-    matrixRotateX(modelviewmatrix, t+mouseTY);
+    matrixRotateX(modelviewmatrix, t-mouseTY);
     matrixRotateY(modelviewmatrix, t+mouseTX);
 }
