@@ -8,7 +8,7 @@ Please consider is as a small "Hello world" example with graphics.
 
 Project contains two subprojects, one is web page, second is standalone openGL native application.
 
-Look at demon on [ZdenekSkulinek.cz](http://test.zdenekskulinek.cz/example)
+Look at demo on [ZdenekSkulinek.cz](http://test.zdenekskulinek.cz/example)
 
 Prereqisities
 -------------
