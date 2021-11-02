@@ -1,7 +1,7 @@
 WebAssembly cube - The WebGL example
 ====================================
 
-For a longer time, I was unable fo found openGL example with **WebAssembly** technology. So I just wite it.
+For a longer time, I was unable fo found openGL example with **WebAssembly** technology. So I just write it.
 Please consider is as a small "Hello world" example with graphics.
 
 ![Cube example](cube_md.png)
